@@ -1,3 +1,1 @@
-Hey!
-I'm Kevin - AKA Prime Rogue - working on webdev, automation, cryptography, and game design.
-
+Prime Rogue Inc - we are a Calgary-based geopolitical risk analysis and tech incubation firm. 
